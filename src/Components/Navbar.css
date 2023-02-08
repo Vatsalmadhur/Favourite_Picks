@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.box{
+    height: 10vh;
+    width: 100vw;
+    background-color: blue;
+}
+.navtxt{
+    text-align: center;
+    font-size: 35px;
+    padding-top: 15px;
+}

@@ -6,9 +6,10 @@
 .box{
     height: 10vh;
     width: 100vw;
-    background-color: blue;
+    background-color: white;
 }
 .navtxt{
+    color: black;
     text-align: center;
     font-size: 35px;
     padding-top: 15px;

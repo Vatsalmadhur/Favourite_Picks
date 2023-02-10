@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outerCard{
+    height: 400px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imageOut{
+    height: 250px;
+    width: 300px;
+    border: 2px solid red;
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    border: 2px solid blue;
+    text-align: center;
+    margin-top: 30px;
+}

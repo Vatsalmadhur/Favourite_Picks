@@ -3,7 +3,7 @@ function Navbar(){
     return(
 <>
 <div className="box">
-    <p className="navtxt">Top Netflix Series</p>
+    <p className="navtxt">My Favourite Netflix Series</p>
 </div>
 </>
     )

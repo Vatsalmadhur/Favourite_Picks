@@ -4,7 +4,8 @@
 
 }
 .box{
-    height: 10vh;
+    min-height: 10vh;
+    height: auto;
     width: 100vw;
     background-color: white;
 }

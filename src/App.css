@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 .mainBox{
-  height: 100vh;
+  height: auto;
   width: 100vw;
   border: 2px solid red;
   display: flex;
-  justify-content:space-between;
+  justify-content:space-around;
   align-items: center;
   flex-wrap: wrap;
   background-color: rgb(187, 205, 211);

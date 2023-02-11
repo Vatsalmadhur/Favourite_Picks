@@ -1,14 +1,14 @@
 import './Card.css'
-function Card() {
+function Card(props) {
   return (
     <>
     <div className="outerCard">
-      <div className="imageOut"><img src="" alt="" className='image' /></div>
-      <p className="info1">Lorem ipsum dolor sit amet.</p>
-      <p className="info2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, sequi.</p>
+      <div className="imageOut"><img src={props.imgsrc} alt="" className='image' /></div>
+      <p className="info1">{props.sname}</p>
+      <p className="info2">{props.title}</p>
       <div className="btn">
-        <a href="" className="link">
-          <p className="watch"></p>
+        <a href={props.link} className="link">
+          <p className="watch">Watch Now</p>
         </a>
       </div>
     </div>

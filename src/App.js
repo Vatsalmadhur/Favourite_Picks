@@ -12,11 +12,11 @@ function App() {
         {SData.map(function ncard(val,index) {
           return (
             <Card
+            key={index}
               sname={val.sname}
               imgsrc={val.imgsrc}
               title={val.title}
               link={val.link}
-              key={index}
             />
           );
         })}

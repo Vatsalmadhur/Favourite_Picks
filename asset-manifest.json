@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Favourite_Picks/static/css/main.d7f1e80c.css",
+    "main.js": "/Favourite_Picks/static/js/main.9af1678b.js",
+    "static/js/787.4c8b8c9c.chunk.js": "/Favourite_Picks/static/js/787.4c8b8c9c.chunk.js",
+    "static/media/TheHauntingWS.jpg": "/Favourite_Picks/static/media/TheHauntingWS.77d4da9a4b9181bdff42.jpg",
+    "static/media/MoneyheistWS.jpeg": "/Favourite_Picks/static/media/MoneyheistWS.d839688c0c1b69c66a73.jpeg",
+    "static/media/WednesdayWS.jpeg": "/Favourite_Picks/static/media/WednesdayWS.9189a41a39b5ec7442e9.jpeg",
+    "static/media/StrangerThingsWS.jpeg": "/Favourite_Picks/static/media/StrangerThingsWS.845144383cd2e8b305fd.jpeg",
+    "static/media/DarkWS.jpeg": "/Favourite_Picks/static/media/DarkWS.cefd33802a15483196bd.jpeg",
+    "static/media/SquidgameWS.jpg": "/Favourite_Picks/static/media/SquidgameWS.0404bddf06fca0f8812c.jpg",
+    "index.html": "/Favourite_Picks/index.html",
+    "main.d7f1e80c.css.map": "/Favourite_Picks/static/css/main.d7f1e80c.css.map",
+    "main.9af1678b.js.map": "/Favourite_Picks/static/js/main.9af1678b.js.map",
+    "787.4c8b8c9c.chunk.js.map": "/Favourite_Picks/static/js/787.4c8b8c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f1e80c.css",
+    "static/js/main.9af1678b.js"
+  ]
+}

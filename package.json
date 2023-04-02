@@ -1,7 +1,7 @@
 {
   "name": "favourite-picks",
   "version": "0.1.0",
-  "homepage": "https://Vatsalmadhur.github.io",
+  "homepage": "https://Vatsalmadhur.github.io/Favourite_Picks",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
